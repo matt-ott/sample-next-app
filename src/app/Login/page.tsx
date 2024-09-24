@@ -31,7 +31,7 @@ export default function LoginPage() {
             <p style={{ fontFamily: 'monospace' }}>JACK</p>
           </div>
           <div className="border-4 border-black p-4">
-            <p className="mb-4" style={{ fontFamily: 'monospace' }}>First, what is your Google account?</p>
+            <p className="mb-4" style={{ fontFamily: 'monospace' }}>First, hello</p>
             <button
               onClick={handleGoogleLogin}
               disabled={isLoading}
